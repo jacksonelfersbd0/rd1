@@ -1,0 +1,4 @@
+hole size: 6.5mm
+square: 11.1mm
+length: 120mm
+jaw gauge: 10.35mm
