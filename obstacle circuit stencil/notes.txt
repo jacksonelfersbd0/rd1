@@ -1,0 +1,8 @@
+0.08 for smaller text.
+0.10 for main text.
+
+Whole logo scale down to 0.75
+__
+large model: 45 degree angle, at 170% for x and y positions
+
+small model: 
